@@ -7,10 +7,11 @@ Expense Tracker using python and mongoDB
 ![image](https://github.com/user-attachments/assets/05882b86-7567-412d-a173-018c28a1729b)
 
 
-What's next problems:
--get_expenses, update_expense, delete_expense functions
--get_total_by_category, get_expenses_by_date_range function as reports
-
-
-long term: 
-make this using tkinter or similar to have a GUI to take inputs and get reports.
+what's next:   
+-get_expenses, update_expense, delete_expense functions   
+-get_total_by_category, get_expenses_by_date_range function as reports   
+      
+&nbsp;      
+      
+long term:    
+make this using tkinter or similar to have a GUI to take inputs and get reports.   
